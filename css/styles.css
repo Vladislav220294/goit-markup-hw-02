@@ -71,6 +71,9 @@ body {
 
   color: var(--secondary-text-color);
 }
+.main-page {
+  color: var(--accent-color);
+}
 .section-hero {
   background-color: var(--secondary-background-color);
 }
@@ -122,9 +125,13 @@ body {
   background-color: var(--secondary-background-color);
 }
 .address-street {
+  font-style: inherit;
+
   color: var(--primary-background-color);
 }
 .address-contacts {
+  font-style: inherit;
+
   color: rgba(255, 255, 255, 0.6);
 }
 .projects-titles {
