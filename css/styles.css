@@ -125,12 +125,12 @@ body {
   background-color: var(--secondary-background-color);
 }
 .address-street {
-  font-style: inherit;
+  font-style: normal;
 
   color: var(--primary-background-color);
 }
 .address-contacts {
-  font-style: inherit;
+  font-style: normal;
 
   color: rgba(255, 255, 255, 0.6);
 }
